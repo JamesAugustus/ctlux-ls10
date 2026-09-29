@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these method notes, please cite them as below."
+type: dataset
+title: "LS10 project file grammar: method notes"
+authors:
+  - given-names: "James"
+    family-names: "Augustus"
+repository-code: "https://github.com/JamesAugustus/ctlux-ls10"
+version: "1.0"
+license:
+  - MIT
+  - Apache-2.0
+keywords:
+  - Lumion
+  - file format analysis
+  - tag-length-value
+  - binary grammar
+  - interoperability
