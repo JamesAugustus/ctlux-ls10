@@ -1,6 +1,6 @@
 # İlgili çalışmalar
 
-İngilizce asıl metin: [RELATED_WORK.md](../RELATED_WORK.md). İki metin arasında
+İngilizce asıl metin: [RELATED_WORK.md](../../md/RELATED_WORK.md). İki metin arasında
 fark olursa İngilizce metin geçerlidir.
 
 Adresler ve yayımlanmış içerik 2026-09-27 tarihinde denetlenmiştir.

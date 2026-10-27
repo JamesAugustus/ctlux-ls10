@@ -1,6 +1,6 @@
 # Yöntem
 
-İngilizce asıl metin: [METHOD.md](../METHOD.md). İki metin arasında fark olursa
+İngilizce asıl metin: [METHOD.md](../../md/METHOD.md). İki metin arasında fark olursa
 İngilizce metin geçerlidir.
 
 Gösterim: bütün tam sayılar ve kayan noktalı sayılar little-endian'dır
@@ -337,7 +337,7 @@ vardır ve çocuğu yoktur. `g` alanının değeri yoktur ve tek üçgenli bir
 
 Toplam 468 bayt, SHA-256
 `5182482876d8004c734360c8b6d196e5ddef7265f56fcb3393b5fc722145465b`.
-[example/make_example.py](example/make_example.py) betiği bu baytları kurar ve
+[example/make_example.py](../example/make_example.py) betiği bu baytları kurar ve
 SHA-256 özetini denetler, böylece örnek yeniden üretilebilir.
 `61 00` ve `67 00`, UTF-16LE'de `a` ve `g` harfleridir. `00 00 00 3f`, f32 0.5'tir.
 Örnekteki adlarda NUL karakteri yoktur. Adlar verinin sonunda biter.

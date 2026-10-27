@@ -1,13 +1,13 @@
 # Kanıt kapsamı
 
-İngilizce asıl metin: [PROVENANCE.md](../PROVENANCE.md). İki metin arasında fark
+İngilizce asıl metin: [PROVENANCE.md](../../md/PROVENANCE.md). İki metin arasında fark
 olursa İngilizce metin geçerlidir.
 
 Belgelenen dilbilgisi, kaydedilmiş tek bir Lumion 10 proje dosyasından
 çıkarılmıştır. [METHOD.md](METHOD.md) içinde anlatılan gözlenmiş şemaları ve
 kayıtları kapsar. Diğer sürümler ve desteklenmeyen şemalar doğrulanmamıştır.
 
-[example/make_example.py](example/make_example.py) içindeki sentetik örnek elle
+[example/make_example.py](../example/make_example.py) içindeki sentetik örnek elle
 kurulmuştur. Özgün bir proje dosyasından bayt içermeden belgelenen okuyucu
 kurallarını sınar. Bu örneğin başarıyla okunması her gerçek projeyle uyumluluğu
 kanıtlamaz.

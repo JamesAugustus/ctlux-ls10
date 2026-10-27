@@ -329,7 +329,7 @@ terminated instance with two fields: `a` has a four-float value and no child.
 
 Total 468 bytes, SHA-256
 `5182482876d8004c734360c8b6d196e5ddef7265f56fcb3393b5fc722145465b`.
-The script [example/make_example.py](example/make_example.py) builds these bytes
+The script [example/make_example.py](../example/make_example.py) builds these bytes
 and checks the hash, so the example can be reproduced.
 `61 00` and `67 00` are `a` and `g` in UTF-16LE. `00 00 00 3f` is f32 0.5.
 The example names have no NUL character and end at the payload boundary.

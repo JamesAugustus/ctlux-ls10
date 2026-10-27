@@ -1,6 +1,6 @@
 # LS10 project file grammar: method notes
 
-[Turkish](Turkish/README.md)
+[Turkish](tr/README.md)
 
 These notes describe a grammar inferred from one `.ls10` project file
 saved by Lumion® 10: how the tagged binary is structured beyond its generic
@@ -42,16 +42,16 @@ that saved the source files.
 
 ## Documents
 
-- [METHOD.md](METHOD.md): the grammar, the rules, a byte-level synthetic example
+- [METHOD.md](md/METHOD.md): the grammar, the rules, a byte-level synthetic example
   and the limits
 - [example/make_example.py](example/make_example.py): builds the synthetic
   example by hand and checks its hash
-- [RELATED_WORK.md](RELATED_WORK.md): the known container pattern, earlier public
+- [RELATED_WORK.md](md/RELATED_WORK.md): the known container pattern, earlier public
   work on the Quest3D format, and how these notes differ
-- [PROVENANCE.md](PROVENANCE.md): method scope and evidence limits
+- [PROVENANCE.md](md/PROVENANCE.md): method scope and evidence limits
 - [LICENSE](LICENSE): MIT OR Apache-2.0, for the
   original notes and example script
-- [CITATION.md](CITATION.md): how to cite these notes
+- [CITATION.md](md/CITATION.md): how to cite these notes
 
 ## Status
 
@@ -83,4 +83,4 @@ Both options permit commercial use and distribution in closed products. Neither 
 
 Both options preserve applicable copyright notices. Neither requires advertising credit, a dedicated user interface credit or academic citation
 
-Third party quotations, code and trademarks retain their own terms and are not relicensed by this notice. Only rights held in the original material are granted. Ideas, methods and file format facts do not become exclusive copyright under these licences. For independent implementations using only those ideas or facts, scholarly citation is voluntary and requested in [CITATION.md](CITATION.md)
+Third party quotations, code and trademarks retain their own terms and are not relicensed by this notice. Only rights held in the original material are granted. Ideas, methods and file format facts do not become exclusive copyright under these licences. For independent implementations using only those ideas or facts, scholarly citation is voluntary and requested in [CITATION.md](md/CITATION.md)
